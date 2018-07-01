@@ -20,7 +20,7 @@ allprojects {
 Open app module gradle file and add the dependency 
 ```java
 dependencies {
-	implementation 'com.github.UmairKhalid786:ColorStrings:0.1.0'
+	implementation 'com.github.UmairKhalid786:ColorStrings:1.0.1'
 }
 ```
 ### How to use it ?
